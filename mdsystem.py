@@ -8,10 +8,10 @@ import numpy as np
 class MDsystem(object):
     
     def __init__(self):
-        resetMDsys()
+        resetData()
         
         
         
         
-    def resetMDsys():
+    def resetData():
         self.t = 0
